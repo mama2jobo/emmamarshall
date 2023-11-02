@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Desert doubles	</title>
+	<atom:link href="https://emmamarshall.net/desert-doubles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://emmamarshall.net/desert-doubles/</link>
+	<description></description>
+	<lastBuildDate>Mon, 27 Aug 2012 09:46:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Andrew		</title>
+		<link>https://emmamarshall.net/desert-doubles/#comment-2</link>
+
+		<dc:creator><![CDATA[Andrew]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2012 09:46:21 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.emmamarshall.net/?p=141#comment-2</guid>
+
+					<description><![CDATA[In each of these mysterious images the awe of nature resonates inside its folds and reflections. All origins remain concealed - of the subject and the artefact. The images have the familiarity of a dream dreamt once but feeling dreamt many times. More &#039;Stalker&#039; than &#039;Picnic at Hanging Rock&#039;.]]></description>
+			<content:encoded><![CDATA[<p>In each of these mysterious images the awe of nature resonates inside its folds and reflections. All origins remain concealed &#8211; of the subject and the artefact. The images have the familiarity of a dream dreamt once but feeling dreamt many times. More &#8216;Stalker&#8217; than &#8216;Picnic at Hanging Rock&#8217;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

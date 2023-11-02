@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Portrait of the week &#8211; David	</title>
+	<atom:link href="https://emmamarshall.net/portrait-of-the-week-david/feed/" rel="self" type="application/rss+xml" />
+	<link>https://emmamarshall.net/portrait-of-the-week-david/</link>
+	<description></description>
+	<lastBuildDate>Tue, 15 Sep 2015 13:27:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Emma		</title>
+		<link>https://emmamarshall.net/portrait-of-the-week-david/#comment-12</link>
+
+		<dc:creator><![CDATA[Emma]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 13:27:14 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.emmamarshall.net/?p=917#comment-12</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://emmamarshall.net/portrait-of-the-week-david/#comment-11&quot;&gt;Monika&lt;/a&gt;.
+
+Thank you! And thanks for visiting :-)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://emmamarshall.net/portrait-of-the-week-david/#comment-11">Monika</a>.</p>
+<p>Thank you! And thanks for visiting :-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Monika		</title>
+		<link>https://emmamarshall.net/portrait-of-the-week-david/#comment-11</link>
+
+		<dc:creator><![CDATA[Monika]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 13:08:27 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.emmamarshall.net/?p=917#comment-11</guid>
+
+					<description><![CDATA[This photo is beautiful! I like the lighting and his very special features.]]></description>
+			<content:encoded><![CDATA[<p>This photo is beautiful! I like the lighting and his very special features.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

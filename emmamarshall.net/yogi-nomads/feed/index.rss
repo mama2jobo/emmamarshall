@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Yogi Nomads	</title>
+	<atom:link href="https://emmamarshall.net/yogi-nomads/feed/" rel="self" type="application/rss+xml" />
+	<link>https://emmamarshall.net/yogi-nomads/</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Oct 2014 13:55:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Emma		</title>
+		<link>https://emmamarshall.net/yogi-nomads/#comment-6</link>
+
+		<dc:creator><![CDATA[Emma]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2014 13:55:18 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.emmamarshall.net/?p=650#comment-6</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://emmamarshall.net/yogi-nomads/#comment-5&quot;&gt;Simon Bates Photography&lt;/a&gt;.
+
+Nice of you to say so, thanks !]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://emmamarshall.net/yogi-nomads/#comment-5">Simon Bates Photography</a>.</p>
+<p>Nice of you to say so, thanks !</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Simon Bates Photography		</title>
+		<link>https://emmamarshall.net/yogi-nomads/#comment-5</link>
+
+		<dc:creator><![CDATA[Simon Bates Photography]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2014 13:52:23 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.emmamarshall.net/?p=650#comment-5</guid>
+
+					<description><![CDATA[Nice set of photos.]]></description>
+			<content:encoded><![CDATA[<p>Nice set of photos.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

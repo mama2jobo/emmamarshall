@@ -1,0 +1,10 @@
+Sitemap: https://emmamarshall.net/sitemap.xml
+Sitemap: https://emmamarshall.net/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://emmamarshall.net/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
